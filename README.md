@@ -19,8 +19,9 @@ Once we know how they work, it is a good idea to see all the advantages we get f
 
 - A **Virtual Machine** (VM) is a compute resource that uses software instead of a physical computer to run programs and deploy apps. One or more virtual “guest” machines run on a physical “host” machine.  Each virtual machine runs its own operating system and functions separately from the other VMs, even when they are all running on the same host. This means that, for example, a virtual MacOS virtual machine can run on a physical PC.
 
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/75c723fc-971f-4f70-a32c-6e4e4891811c/Untitled.png)
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/75c723fc-971f-4f70-a32c-6e4e4891811c/Untitled.png)
+
+![Untitled](https://github.com/YounesMoukhlij/Born2beroot/assets/123767564/d320c025-9e4b-45e2-9fa1-86a88821ae62)
+
 
 If you’re wondering what’s VM, the answer actually isn’t too complicated. The main purpose of VMs is to operate multiple operating systems at the same time, from the same piece of hardware. Without virtualization, operating multiple systems — like Windows and Linux — would require two separate physical units.
 
