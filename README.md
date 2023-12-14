@@ -27,9 +27,9 @@ If you’re wondering what’s VM, the answer actually isn’t too complicated. 
 
 ### 2. **What Is a Hypervisor?**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/f5b7a55c-9486-4663-8fd6-8815f972318b/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/79bda467-7e11-4417-a9ae-eb2e563d91a4/Untitled.png)
+![Untitled (1)](https://github.com/YounesMoukhlij/Born2beroot/assets/123767564/d6fbec02-9c23-4346-baca-069842bed871)
+
 
 **A hypervisor (Virtual Machine Monitor) is hardware, software, or firmware capable of creating virtual machines and then managing and allocating resources to them.**
 
