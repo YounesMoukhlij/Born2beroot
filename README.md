@@ -4,7 +4,7 @@
 
 - **A virtual machine (VM)** is a virtual environment that works like a computer inside of a computer. It will run on an isolated partition of its host computer with its own resources of CPU power, memory, an operating system, and other resources. Virtualization uses software to simulate virtual hardware that allows multiple VMs to run on a single machine. The physical machine is known as the host while the VMs running on it are called guests. This process is managed by software known as a hypervisor.
 
-Virtualization allow us share a system with multiple virtual environments. 
+- Virtualization allow us share a system with multiple virtual environments. 
 
 - The hypervisor manages the hardware system and separate the physical resources from the virtual environments. **The resources are managed following the needs, from the host to the guests.**
 - When a user from a VM do a task that requires additional resources from the physical environment, the hypervisor manages the request so that the guest OS could access the resources of the physical environment.
@@ -19,7 +19,8 @@ Once we know how they work, it is a good idea to see all the advantages we get f
 
 - A **Virtual Machine** (VM) is a compute resource that uses software instead of a physical computer to run programs and deploy apps. One or more virtual “guest” machines run on a physical “host” machine.  Each virtual machine runs its own operating system and functions separately from the other VMs, even when they are all running on the same host. This means that, for example, a virtual MacOS virtual machine can run on a physical PC.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/75c723fc-971f-4f70-a32c-6e4e4891811c/Untitled.png)
+[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/75c723fc-971f-4f70-a32c-6e4e4891811c/Untitled.png)
+[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/75c723fc-971f-4f70-a32c-6e4e4891811c/Untitled.png)
 
 If you’re wondering what’s VM, the answer actually isn’t too complicated. The main purpose of VMs is to operate multiple operating systems at the same time, from the same piece of hardware. Without virtualization, operating multiple systems — like Windows and Linux — would require two separate physical units.
 
