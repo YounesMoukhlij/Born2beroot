@@ -63,7 +63,9 @@ The most obvious difference is that aptitude provides a terminal menu interface 
 
 AppArmor, short for "Application Armor," is a Linux security module that provides mandatory access control (MAC) for programs. It is designed to restrict the capabilities of individual applications, preventing them from accessing resources or performing actions that are not explicitly allowed. AppArmor works by defining security profiles for each application, specifying what resources the application is allowed to access and what operations it can perform.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2980d06d-0e74-4366-860f-548baf9351c6/61dc6f6e-f0d2-4453-a77f-7123bde8844f/Untitled.png)
+![Untitled](ht![Untitled (1)sgdsfsdgsdg](https://github.com/YounesMoukhlij/Born2beroot/assets/123767564/1466e809-28f1-4520-89dc-31ee08a45570)
+tps://github.com/YounesMoukhlij/Born2beroot/assets/123767564/08f3d9a0-215a-43fa-b37d-737f357f3b52)
+
 
 For example, if an installed application can take photos by accessing the camera application, but the administrator denies this privilege, the application will not be able to access the camera application. If a vulnerability occurs (some of the restricted tasks are performed), AppArmor blocks the application so that the damage does not spread to the rest of the system.
 
